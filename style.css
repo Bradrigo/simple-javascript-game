@@ -8,6 +8,7 @@
   height: 200px;
   border: 1px solid black;
   margin: auto;
+  background-image: url("sky_background.png");
 }
 #character {
   width: 20px;
