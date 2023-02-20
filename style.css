@@ -37,11 +37,11 @@
 #block {
   width: 20px;
   height: 20px;
-  background-color: blue;
   position: relative;
   top: 130px;
   left: 500px;
   animation: block 2s infinite linear;
+  background-image: url("toffee_apple.png");
 }
 @keyframes block {
   0% {
